@@ -1,9 +1,16 @@
 # GoogleTrends_Dashboard_PowerBI_Project
-GoogleTrends_Dashboard_Project
+
+### Dashboard Screenshot
+
+<img src='Bg, Josn and Flags/01.jpg' class="center">
+<img src='Bg, Josn and Flags/02.jpg' class="center">
+<img src='Bg, Josn and Flags/03.jpg' class="center">
+<img src='Bg, Josn and Flags/04.jpg' class="center">
+
 
 After Pesting the codes into Power BI, make sure you replace your API Key in the code. If you don't know how to get the key, simply log in to https://serpapi.com/ and navigate to the account section where you'll find the key.
 
-Keyword Limit : Maximum 5 Keywords can be passed
+Keyword Limit: Maximum 5 Keywords can be passed
 
       let
         // Define the API endpoint
